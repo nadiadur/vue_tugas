@@ -1,11 +1,7 @@
 <template>
-    <div>
-   Meal List
-    </div>
+  Login Page
 </template>
 
-
 <script setup>
-
 
 </script>
